@@ -219,6 +219,7 @@ section{
     grid-template-columns:min-content;
     gap:7.5rem;
     align-self: center;
+    margin-left: 15%;
 }
 
 .products .box-container .box{
